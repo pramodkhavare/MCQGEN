@@ -16,10 +16,10 @@ source env\\Scripts\\activate
 touch .gitignore
 ```
 ```
-
+pip install -r requirements.txt
 ```
 ```
-
+python setup.py install 
 ```
 ```
 

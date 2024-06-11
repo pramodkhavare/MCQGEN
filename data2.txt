@@ -1,0 +1,7 @@
+Machine learning (ML) is a subset of artificial intelligence (AI) focused on building systems that learn from and make decisions based on data. It involves the development of algorithms that can identify patterns, make predictions, and improve their performance over time without being explicitly programmed to do so. Here's an overview of the key concepts and components of machine learning:
+
+1. Types of Machine Learning
+Supervised Learning: In supervised learning, the model is trained on labeled data, which means the input data is paired with the correct output. The goal is to learn a mapping from inputs to outputs that can be used to predict the output for new, unseen inputs. Examples include:
+
+Classification: Predicting a discrete label, such as spam detection in emails (spam or not spam).
+Regression: Predicting a continuous value, such as house price prediction.
